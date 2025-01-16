@@ -40,3 +40,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 npx create-next-app@latest .
 
 ## How to properly connect the env variables
+
+1. Follow: https://docs.convex.dev/quickstart/nextjs
