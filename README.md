@@ -42,3 +42,4 @@ npx create-next-app@latest .
 ## How to properly connect the env variables
 
 1. Follow: https://docs.convex.dev/quickstart/nextjs
+2. Check THE README.md from CONVEX folder as well for more in depth knowledge about how convex works
