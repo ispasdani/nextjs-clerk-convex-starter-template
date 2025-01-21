@@ -52,3 +52,4 @@ npx create-next-app@latest .
 9. npm install @clerk/nextjs if you use nextjs otherwise continue with the react version
 10. clerk publishable key
 11. configure convex provider with clerk
+12. webhook -> convex domain -> append .convex.site/clerk
