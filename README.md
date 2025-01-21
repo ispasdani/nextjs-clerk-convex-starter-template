@@ -43,4 +43,12 @@ npx create-next-app@latest .
 
 1. Follow: https://docs.convex.dev/quickstart/nextjs
 2. Check THE README.md from CONVEX folder as well for more in depth knowledge about how convex works
-   dasdsada
+3. Create your schemas. This template already comes with 3 predefined ones that can be updated based on needs.
+4. CRUD operations for users: users.ts
+5. http.ts file where you define your webhook call
+6. Follow: https://docs.convex.dev/auth/clerk
+7. Clerk -> JWT Token -> new template -> do not rename, leave it convex -> copy issuer URL -> apply changes
+8. Create auth.config.ts
+9. npm install @clerk/nextjs if you use nextjs otherwise continue with the react version
+10. clerk publishable key
+11. configure convex provider with clerk
