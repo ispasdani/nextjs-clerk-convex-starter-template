@@ -53,3 +53,4 @@ npx create-next-app@latest .
 10. clerk publishable key
 11. configure convex provider with clerk
 12. webhook -> convex domain -> append .convex.site/clerk
+13. super simple guide for doing the whole process https://www.youtube.com/watch?v=zfAb95tJvZQ&t=3516s
